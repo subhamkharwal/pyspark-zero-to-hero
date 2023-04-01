@@ -3,3 +3,6 @@ _*
 spark-warehouse/*
 metastore_db/*
 derby.log
+data/
+data
+/data
